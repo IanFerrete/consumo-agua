@@ -20,7 +20,7 @@
 
 \## 🎯 Objetivo do Projeto
 
-Desenvolvido por \*\*Ian\*\*, este programa em Python faz parte de uma campanha de conscientização ambiental da companhia de saneamento local para classificar o consumo de água de imóveis.
+Desenvolvido por Ian, este programa em Python faz parte de uma campanha de conscientização ambiental da companhia de saneamento local para classificar o consumo de água de imóveis.
 
 
 

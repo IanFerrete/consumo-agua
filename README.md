@@ -34,7 +34,3 @@ Desenvolvido por Ian, este programa em Python faz parte de uma campanha de consc
 
 2\. Execute no terminal:
 
-&#x20;  ```bash
-
-&#x20;  python app.py
-

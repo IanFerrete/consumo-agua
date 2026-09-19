@@ -1,4 +1,4 @@
-\# 💧 Sistema de Classificação de Perfil de Consumo de Água
+Sistema de Classificação de Perfil de Consumo de Água
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-\## 🎯 Objetivo do Projeto
+Objetivo do Projeto
 
 Desenvolvido por Ian, este programa em Python faz parte de uma campanha de conscientização ambiental da companhia de saneamento local para classificar o consumo de água de imóveis.
 
@@ -28,7 +28,7 @@ Desenvolvido por Ian, este programa em Python faz parte de uma campanha de consc
 
 
 
-\## 🚀 Como Executar
+ Como Executar
 
 1\. Certifique-se de ter o Python instalado.
 
